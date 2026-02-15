@@ -8,3 +8,5 @@ vless://9abf9451-dac0-4403-ae33-16433244807c@95.163.211.92:8443?encryption=none&
 vless://9abf9451-dac0-4403-ae33-16433244807c@5.188.142.207:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=3e-FjUV-nyaKq8pAvJ5jGa5gZMIK6_bN-xwijYlRbwM&sid=e5fa9569c4d0cb5e&type=tcp#ОБХОД БЕСПИЛОТНИКА 🏳️ | 8 🇨🇦
 vless://9abf9451-dac0-4403-ae33-16433244807c@217.16.24.64:666?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.com&fp=chrome&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&sid=a1b2c3d4e5f67890&type=tcp#ОБХОД БЕСПИЛОТНИКА 🏳️ | 9  🇰🇷
 trojan://bQTLp0uCdjHHHTYHNrJ6NWdJ0bbF72@37.139.34.175:8443?security=reality&sni=max.ru&fp=chrome&pbk=VoThhJ_pOwFXUCjB8DCpK3cM1ymeZKV4fBmo6audKVQ&sid=9c2378562188c3cb&spx=%2F&type=tcp#ОБХОД БЕСПИЛОТНИКА 🏳️ | 10 🇨🇭
+
+vless://9abf9451-dac0-4403-ae33-16433244807c@185.86.146.129:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=3e-FjUV-nyaKq8pAvJ5jGa5gZMIK6_bN-xwijYlRbwM&sid=e5fa9569c4d0cb5e&type=tcp#ОБХОД БЕСПИЛОТНИКА 🏳️ | 11 🇳🇱
