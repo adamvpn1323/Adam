@@ -1,4 +1,4 @@
-#profile-title: Adam Vpn 📶
+#profile-title: 𝐀𝐃𝐀𝐌 𝐕𝐏𝐍 🏳️
 
 vless://9cbbb8e0-9510-406c-b972-be936cc7e7e6@s49079.cdn.ngenix.net:443?path=%2Fstream%2Flive&security=tls&encryption=none&host=s49079.cdn.ngenix.net&fp=qq&allowinsecure=0&type=ws&sni=s49079.cdn.ngenix.net#🇳🇱 Обход глушилок 1 LTE 📶
 vless://9cbbb8e0-9510-406c-b972-be936cc7e7e6@46.235.189.248:443?path=%2Fstream%2Flive&security=tls&encryption=none&host=s49079.cdn.ngenix.net&fp=qq&allowinsecure=1&type=ws&sni=s49079.cdn.ngenix.net#🇳🇱 Обход глушилок 2 LTE 📶
