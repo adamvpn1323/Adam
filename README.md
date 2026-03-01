@@ -1,4 +1,4 @@
-#profile-title:  🍏 АНТИЗАГЛУШКА 
+#profile-title:  🍏 АНТИЗАГЛУШКА  🍏
 
 #profile-update-interval: 1
 
