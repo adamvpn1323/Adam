@@ -33,12 +33,11 @@
 #profile-footer-text:Спасибо, что выбрали нас!
 #profile-description:Лучшая защита от глушилок 2026
 #profile-notice-style:bold
-#announce:Ecли не работает VPN, нажми на 🔄 чтобы обновить подписку или попробуй сменить сервер из списка ниже.
+#announce:Ecли не работает VPN, нажми на 🔄 чтобы обновить подписку или попробуй сменить сервер из.
+#announce:напишина этот номер +79659571323 Whatsapp о проблеме, 
+#announce:пришли скриншоты:
 
-👉 напиши на этот номер +79659571323 Whatsapp о проблеме, 
-пришли скриншоты:
-
-   ADAM VPN 🔥
+#announce:ADAM VPN 🔥
 #profile-announce-color:#00FF00
 #profile-welcome-message:Добро пожаловать в ADAM VPN! 🚀
 
