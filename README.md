@@ -1,10 +1,10 @@
-#profile-title:АНТИЗАГЛУШКА 🧢
+#profile-title:ГЛУШИЛКА📞📶
 #profile-update-interval:12
 #profile-subscription-url:https://raw.githubusercontent.com/adamvpn1323/anti_vpn/main/README.md
 #support-url:https://wa.me/79659571323
 #profile-web-page-url:https://wa.me/79659571323
 #subscription-userinfo:upload=0; download=0; total=0; expire=1816642800
-#profile-notice:━━━━━━━━━━━━━━━\n  АНТИЗАГЛУШКА 🧢  \n━━━━━━━━━━━━━━━\n🛡 Статус: Активен\n🚀 Трафик: Безлимитный\n⚡ Скорость: Максимальная\n━━━━━━━━━━━━━━━
+#profile-notice:━━━━━━━━━━━━━━━\n ГЛУШИЛКА📞📶 \n━━━━━━━━━━━━━━━\n🛡 Статус: Активен\n🚀 Трафик: Безлимитный\n⚡ Скорость: Максимальная\n━━━━━━━━━━━━━━━
 #profile-icon:https://share.google/Kl64QMcBQApgnH6aJ
 #profile-test-url:http://cp.cloudflare.com/generate_204
 #profile-test-interval:300
@@ -33,7 +33,12 @@
 #profile-footer-text:Спасибо, что выбрали нас!
 #profile-description:Лучшая защита от глушилок 2026
 #profile-notice-style:bold
-#announce:Обновляйте подписку 🔄 Новые конфиги появляются регулярно!💡
+#announce:Ecли не работает VPN, нажми на 🔄 чтобы обновить подписку или попробуй сменить сервер из списка ниже.
+
+👉 напиши на этот номер +79659571323 Whatsapp о проблеме, 
+пришли скриншоты:
+
+   ADAM VPN 🔥
 #profile-announce-color:#00FF00
 #profile-welcome-message:Добро пожаловать в ADAM VPN! 🚀
 
