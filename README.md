@@ -1,10 +1,10 @@
-#profile-title:АНТИЗАГЛУШКА📡
-#profile-update-interval:12
+#profile-title:АНТИЗАГЛУШКА
+#profile-update-interval:6
 #profile-subscription-url:https://raw.githubusercontent.com/adamvpn1323/anti_vpn/main/README.md
 #support-url:https://wa.me/79659571323
 #profile-web-page-url:https://wa.me/79659571323
 #subscription-userinfo:upload=0; download=0; total=0; expire=1816642800
-#profile-notice:━━━━━━━━━━━━━━━\n АНТИЗАГЛУШКА📡 \n━━━━━━━━━━━━━━━\n🛡 Статус: Активен\n🚀 Трафик: Безлимитный\n⚡ Скорость: Максимальная\n━━━━━━━━━━━━━━━
+#profile-notice:━━━━━━━━━━━━━━━\n АНТИЗАГЛУШКА \n━━━━━━━━━━━━━━━\n🛡 Статус: Активен\n🚀 Трафик: Безлимитный\n⚡ Скорость: Максимальная\n━━━━━━━━━━━━━━━
 #profile-icon:https://share.google/Kl64QMcBQApgnH6aJ
 #profile-test-url:http://cp.cloudflare.com/generate_204
 #profile-test-interval:300
