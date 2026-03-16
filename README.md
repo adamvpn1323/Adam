@@ -38,7 +38,7 @@
 #profile-welcome-message:Добро пожаловать в ADAM VPN! 🚀
 
 
-vless://c9149cb7-cdde-4f7f-ad43-70a4a6de6ecc@51.250.83.250:8443?security=reality&encryption=none&pbk=EVyNin-h6BM0oliuXAHSxFWAsmmQswkc6NpNzCYWTH0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=31c1cf85b5c822d7#🇷🇺 ОБХОД БЕСПИЛОТНИКА 1
+vless://9627b732-ea95-44e3-b285-d75c187ecc02@n6.robotturbo.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=EVyNin-h6BM0oliuXAHSxFWAsmmQswkc6NpNzCYWTH0&sid=31c1cf85b5c822d7&type=tcp#🇷🇺 ОБХОД БЕСПИЛОТНИКА 1
 vless://6c8e6d2f-1127-4219-a871-ec1360e2b82f@95.163.208.222:8443?mode=multi&security=reality&encryption=none&authority=&pbk=pkwQ6xk56XA0btFaqVOg6u49On2uoavohsxZt9L37Vk&fp=qq&allowinsecure=0&type=grpc&serviceName=xyz&sni=eh.vk.ru&sid=6b095878b6c39835#🇷🇺 ОБХОД БЕСПИЛОТНИКА 2
 vless://6c8e6d2f-1127-4219-a871-ec1360e2b82f@185.130.114.215:50045?security=reality&encryption=none&pbk=iiATfPSTP52Qt4oC0jm5HnDvcTfPhvP_8TqXzm6uYzw&fp=random&allowinsecure=0&type=raw&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=3a0d04f3f2b2a0a1#🇷🇺 ОБХОД БЕСПИЛОТНИКА 3
 vless://6c8e6d2f-1127-4219-a871-ec1360e2b82f@185.130.114.215:50045?security=reality&encryption=none&pbk=iiATfPSTP52Qt4oC0jm5HnDvcTfPhvP_8TqXzm6uYzw&fp=random&allowinsecure=0&type=raw&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=3a0d04f3f2b2a0a1#🇷🇺 ОБХОД БЕСПИЛОТНИКА 4
